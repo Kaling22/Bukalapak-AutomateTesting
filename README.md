@@ -1,5 +1,7 @@
 # Sanber51-Cypress-Kelompok-4
 
+<img src="assets/sanberhub.png">
+
 <h1>Anggota Kelompok </h1>
 
 <ul>
