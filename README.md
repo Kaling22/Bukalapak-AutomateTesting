@@ -1,8 +1,6 @@
-# Sanber51-Cypress-Kelompok-4
+# Bukalapak Automate Test
 
-<img src="assets/sanberhub.png">
-
-<h1>Anggota Kelompok </h1>
+<h1>Anggota</h1>
 
 <ul>
   <li>
